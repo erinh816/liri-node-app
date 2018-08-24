@@ -1,19 +1,21 @@
 require("dotenv").config();
-var keys = require('./keys.js')
+var tumblr = require('tumblr.js');
+var Spotify = require('node-spotify-api');
+var request = require('request');
+var fs = require('fs');
 
-var MOVIE = require("./omdb");
+var keys = require('./keys.js');
 
+var command = process.argv;
+var search = command[2];
 
-var spotify = new Spotify(keys.spotify);
-// var client = new Twitter(keys.twitter);
-var tumblr = new Tumblr(keys.tumblr);
+var liricommand = "";
 
-
-var movie = new Movie();
-
-var search = search.argv[2];
-
-var term = process.argv.slice(3).join("");
+for (i=2; i<command.length; i++){
+    if(i>2 &&  command.length){
+        liricommand +=command[i] + '';
+    }
+}
 
 
 
