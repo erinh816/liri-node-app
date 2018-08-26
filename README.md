@@ -22,7 +22,7 @@ Artist(s)
 The song's name
 A preview link of the song from Spotify
 The album that the song is from
-Or if no song is passed through, it will default to *"Florescent Adolescent" by Arctic Monkeys
+Or if no song is passed through, it will default to *"Strobe" by Deadmau5
 
 node liri.js movie-this <movie name>
 Shows the following information in terminal/bash.
@@ -36,7 +36,7 @@ Plot of the movie.
 Actors in the movie.
 Rotten Tomatoes Rating.
 Rotten Tomatoes URL.
-Or if no movie is passed through, it will default to "Mr. Nobody"
+Or if no movie is passed through, it will default to "Virgin Suicide"
 
 node liri.js do-what-it-says
 Takes the text from random.txt and runs the song through spotify-this-song command
