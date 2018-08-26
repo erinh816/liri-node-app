@@ -29,5 +29,5 @@ var omdb = function(){
     };
 };
 
-module.exports = MOVIE;
+module.exports = Movie;
  

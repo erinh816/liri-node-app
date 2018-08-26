@@ -1,0 +1,90 @@
+Movie:Baby
+Year:2015
+IMDB Rating:8.1
+Country:India
+Language:Hindi
+Plot:An elite counter-intelligence unit learns of a plot, masterminded by a maniacal madman. With the clock ticking, it's up to them to track the terrorists' international tentacles and prevent them from striking at the heart of India.
+Actors:Akshay Kumar, Danny Denzongpa, Rana Daggubati, Tapsee Pannu
+
+------------------------------------------------------------
+
+Movie:Baby
+Year:2015
+IMDB Rating:8.1
+Country:India
+Language:Hindi
+Plot:An elite counter-intelligence unit learns of a plot, masterminded by a maniacal madman. With the clock ticking, it's up to them to track the terrorists' international tentacles and prevent them from striking at the heart of India.
+Actors:Akshay Kumar, Danny Denzongpa, Rana Daggubati, Tapsee Pannu
+
+------------------------------------------------------------
+
+Movie:undefined
+Year:undefined
+IMDB Rating:undefined
+Country:undefined
+Language:undefined
+Plot:undefined
+Actors:undefined
+
+------------------------------------------------------------
+
+Movie:Frozen
+Year:2013
+IMDB Rating:7.5
+Country:USA
+Language:English, Norwegian
+Plot:When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+Actors:Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+
+------------------------------------------------------------
+
+Movie:Frozen
+Year:2013
+IMDB Rating:7.5
+Country:USA
+Language:English, Norwegian
+Plot:When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+Actors:Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+
+------------------------------------------------------------
+
+Movie:undefined
+Year:undefined
+IMDB Rating:undefined
+Country:undefined
+Language:undefined
+Plot:undefined
+Actors:undefined
+
+------------------------------------------------------------
+
+Movie:undefined
+Year:undefined
+IMDB Rating:undefined
+Country:undefined
+Language:undefined
+Plot:undefined
+Actors:undefined
+
+------------------------------------------------------------
+
+Movie:undefined
+Year:undefined
+IMDB Rating:undefined
+Country:undefined
+Language:undefined
+Plot:undefined
+Actors:undefined
+
+------------------------------------------------------------
+
+Movie:Up
+Year:2009
+IMDB Rating:8.3
+Country:USA
+Language:English
+Plot:Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.
+Actors:Edward Asner, Christopher Plummer, Jordan Nagai, Bob Peterson
+
+------------------------------------------------------------
+
